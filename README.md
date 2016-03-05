@@ -1,2 +1,2 @@
 # PythonPP2
-Python Mad Libs
+Python Practice Project 2 Mad Libs
